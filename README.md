@@ -1,16 +1,20 @@
-## Hi there 👋
+## Kate Sacerodote
 
-<!--
-**katesacerdote/katesacerdote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior Computer Science major at Washington and Lee University 
 
-Here are some ideas to get you started:
+## Work Experience
+This past summer, I interned at a Cyber Security company called Snyk where I worked in Sales. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies 
+In my free time, I enjoy cooking for my friends and family, playing tennis and pickleball, fishing, and needlepointing
+
+## Interests
+The ocean and ocean animals 
+Math and logic puzzles 
+Art History
+Computer Science 
+Reality TV
+
+
+
+
